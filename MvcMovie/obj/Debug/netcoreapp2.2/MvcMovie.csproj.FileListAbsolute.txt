@@ -5,7 +5,6 @@ C:\Users\manaf\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.2\MvcMovie.d
 C:\Users\manaf\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.2\MvcMovie.pdb
 C:\Users\manaf\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.2\MvcMovie.Views.dll
 C:\Users\manaf\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.2\MvcMovie.Views.pdb
-C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csprojAssemblyReference.cache
 C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csproj.CoreCompileInputs.cache
 C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.RazorAssemblyInfo.cache
 C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.RazorAssemblyInfo.cs
@@ -29,3 +28,9 @@ C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.d
 C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.pdb
 C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csproj.CopyComplete
 C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
+C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Create.g.cshtml.cs
+C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Delete.g.cshtml.cs
+C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
+C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
+C:\Users\manaf\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
